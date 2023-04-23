@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bril</h1>
 <h3 align="center">Currently learning mobile app development, and looking for study buddies!</h3>
 
-- 🏫 Currently studing at **State Polytechnic of Malang**
+- 🏫 Presently studying at **State Polytechnic of Malang**
 
 - 🌱 I’m currently learning **Flutter, Java, MySQL**
 
