@@ -3,7 +3,7 @@
 
 - 🏫 Presently studying at **State Polytechnic of Malang**
 
-- 🌱 I’m currently learning **Flutter, Java, MySQL**
+- 🌱 I’m currently learning **Flutter, Java, MySQL and kotlin**
 
 - 📫 How to reach me **zira#0261 on discord**
 
