@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **Zira#0261 on discord**
 
-- ⚡ Fun fact **I'm socially awkward:)**
+- ⚡ Fun fact **I'm socially awkward, and I hate sweet dishes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
