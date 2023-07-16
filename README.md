@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter, Java, MySQL and kotlin**
 
-- 📫 How to reach me **ziraaa_ on discord**
+- 📫 How to reach me **ziraaa_ on discord** or **bril_sat on instagram**
 
 - ⚡ Fun fact **I'm socially awkward, and I hate sweet dishes**
 
