@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bril</h1>
 <h3 align="center">Currently learning mobile app development, and looking for study buddies!</h3>
 
-- 🌱 I’m currently learning **Flutter, Java, MySQL and kotlin**
+- 🌱 I’m currently learning **Dart, Java, MySQL and kotlin**
 
 - 📫 How to reach me **ziraaa_ on discord** or **bril_sat on instagram**
 
-- ⚡ Fun fact **I'm socially awkward, and I hate sweet dishes**
+- ⚡ Fun fact **I'm socially awkward, and I hate sweet dishes:)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
