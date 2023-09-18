@@ -1,22 +1,3 @@
-AGRG: Awesome Github Readme Generator
-Generate Successfully
-
-
-Awesome Github Readme Generator
-Sign In
-
-Awesome Github Profile README.md Generator
-
-Star This Repository
-Fork This Repository
-
-Back To Edit
-
-Copy Markdown
-
-Download Markdown
-
-Download Backup
 
 Preview Markdown
 <h1 align="center">Howdy, I'm Bril</h1>
@@ -53,25 +34,4 @@ Preview Markdown
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlsoKnownAsZira&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlsoKnownAsZira&theme=2077" height="180em" />
 </div>
-Support
-Are you using the tool and happy with it to create your GitHub Repository?
 
-Please Don't Forget to Star This Repository
-FlowBite Logo
-Github Readme Generator
-RESOURCES
-Github Readme Generator
-Source Code
-FOLLOW US
-Github
-Linkedin
-LEGAL
-Privacy Policy
-Terms & Conditions
-© 2023 . All Rights Reserved.
-Made ❤️ by Sashen Jayathilaka
-Facebook page
-Instagram page
-Twitter page
-GitHub account
-Dribbble account
