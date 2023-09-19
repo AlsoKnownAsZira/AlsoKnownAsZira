@@ -1,7 +1,7 @@
 <h1 align="center">Howdy, I'm Bril</h1>
 <h3 align="center">Multi platform mobile app developer wannabe</h3>
-- 🌱 I’m currently learning Flutter, MySQL and Java
 
+- 🌱 I’m currently learning **Flutter, MySQL and Java**
 - 📫 How to reach me **brilyansatria10@gmail.com**
 - ⚡ Fun fact **I hate sweet dishes:)**
 </div><h3 align="left">Connect with me:</h3>
