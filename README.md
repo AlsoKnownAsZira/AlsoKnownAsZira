@@ -1,6 +1,5 @@
-
-Preview Markdown
 <h1 align="center">Howdy, I'm Bril</h1>
+<h3 align="center">Multi platform mobile app developer wannabe</h3>
 - 🌱 I’m currently learning **Flutter, MySQL and Java**
 
 - 📫 How to reach me **brilyansatria10@gmail.com**
@@ -34,4 +33,3 @@ Preview Markdown
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlsoKnownAsZira&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlsoKnownAsZira&theme=2077" height="180em" />
 </div>
-
