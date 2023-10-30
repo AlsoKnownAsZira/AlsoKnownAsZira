@@ -1,4 +1,4 @@
-<h1 align="center">Howdy, I'm Bril</h1>
+<h1 align="center">Howdy, I'm Bril, also known as Zira</h1>
 <h3 align="center">Mobile app developer wannabe</h3>
 
 - 🌱 I’m currently learning **Flutter, MySQL and Java**
