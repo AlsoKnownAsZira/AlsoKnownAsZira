@@ -19,7 +19,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<img src="https://media3.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif?cid=ecf05e479ddcitfd0jg8momrpdyp1i15ffc0apg49lxl0gut&ep=v1_gifs_search&rid=giphy.gif&ct=g"><h3 align="center">Statistics</h3>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5nb2liaDY3aDloeTczaHhrNTM0czUzMDZkZ2V2dnA5eTMxemNsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/AlsoKnownAsZira">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlsoKnownAsZira&theme=dark" height="180em" />
