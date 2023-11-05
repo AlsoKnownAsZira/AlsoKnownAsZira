@@ -1,10 +1,10 @@
 
 <h1 align="center">Howdy 👋, I'm Bril, also known as Zira</h1>
 <h3 align="center">Multi platform app developer wannabe</h3>
-- 🌱 I’m currently learning **Flutter, java, SQL**
-- 💬 Ask me about **Dart and flutter**
-- 📫 How to reach me **brilyansatria10@gmail.com**
-- ⚡ Fun fact **I hate sweet foods**
+- 🌱 I’m currently learning Flutter, java, SQL
+- 💬 Ask me about Dart and flutter
+- 📫 How to reach me brilyansatria10@gmail.com
+- ⚡ Fun fact I hate sweet foods
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/brilyan-satria-wahyuda-a96a80250/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/alsoknownaszira" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
