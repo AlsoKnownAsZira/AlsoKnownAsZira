@@ -21,3 +21,8 @@
 <div align="center">
 <a href="https://github.com/AlsoKnownAsZira">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlsoKnownAsZira&theme=dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlsoKnownAsZira&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlsoKnownAsZira&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlsoKnownAsZira&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlsoKnownAsZira&theme=2077" height="180em" />
+</div>
