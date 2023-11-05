@@ -1,22 +1,4 @@
-AGRG: Awesome Github Readme Generator
 
-Awesome Github Readme Generator
-Sign In
-
-Awesome Github Profile README.md Generator
-
-Star This Repository
-Fork This Repository
-
-Back To Edit
-
-Copy Markdown
-
-Download Markdown
-
-Download Backup
-
-Preview Markdown
 <h1 align="center">Howdy 👋, I'm Bril, also known as Zira</h1>
 <h3 align="center">Multi platform app developer wannabe</h3>
 - 🌱 I’m currently learning **Flutter, java, SQL**
