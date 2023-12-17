@@ -20,9 +20,22 @@
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5nb2liaDY3aDloeTczaHhrNTM0czUzMDZkZ2V2dnA5eTMxemNsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/AlsoKnownAsZira">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlsoKnownAsZira&theme=dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlsoKnownAsZira&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlsoKnownAsZira&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlsoKnownAsZira&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlsoKnownAsZira&theme=2077" height="180em" />
+<p align="center">
+  <a href="https://github.com/AlsoKnownAsZira">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlsoKnownAsZira&theme=radical&border=7F3FBF&background=0D1117" alt="Zira's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AlsoKnownAsZira">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlsoKnownAsZira&theme=radical" alt="Zira's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/AlsoKnownAsZira"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AlsoKnownAsZira&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/AlsoKnownAsZira"><img alt="Zira's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AlsoKnownAsZira&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
 </div>
