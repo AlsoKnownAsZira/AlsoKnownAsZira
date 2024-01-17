@@ -1,8 +1,8 @@
 <h1 align="center">Howdy, I'm Bril, also known as Zira</h1>
 <h3 align="center">Multi platform app developer wannabe</h3>
 
-- 🌱 I’m currently learning **Flutter, MySQL and Java**
-- 📫 How to reach me **brilyansatria10@gmail.com**
+- 🌱 Currently grinding **flutter with GetX State Management** 
+- 📫 How to reach me **brilyansatria10@gmail.com** or **ziraaa_** on discord
 - ⚡ Fun fact **I love playing video games, I'm a night owl and I hate sweets**
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -10,8 +10,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
