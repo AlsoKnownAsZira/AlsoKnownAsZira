@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter, MySQL and Java**
 - 📫 How to reach me **brilyansatria10@gmail.com**
-- ⚡ Fun fact **I hate sweet dishes:)**
+- ⚡ Fun fact **I love playing video games, I'm a night owl and I hate sweets**
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/Brilyan Satria" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Brilyan Satria" height="30" width="40" /></a><a href="https://www.hackerrank.com/AlsoKnownAsZira" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="AlsoKnownAsZira" height="30" width="40" /></a><a href="https://discord.gg/ziraaa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="ziraaa_" height="30" width="40" /></a><a href="https://stackoverflow.com/users/Ziraaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="Ziraaa" height="30" width="40" /></a><a href="https://instagram.com/bril_sat" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="bril_sat" height="30" width="40" /></a></p>
