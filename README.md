@@ -2,7 +2,7 @@
 <h3 align="center">Multi platform app developer wannabe</h3>
 
 - 🌱 Currently grinding **flutter with GetX State Management** 
-- 📫 How to reach me **brilyansatria10@gmail.com** or **ziraaa_** on discord
+- 📫 How to reach me **bril_sat** on instagram or **ziraaa_** on discord
 - ⚡ Fun facts **I love playing video games, I'm a night owl and I hate sweets**
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
