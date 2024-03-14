@@ -15,7 +15,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5nb2liaDY3aDloeTczaHhrNTM0czUzMDZkZ2V2dnA5eTMxemNsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"><h3 align="center">Statistics</h3>
+<img src="https://tenor.com/view/eula-dance-genshin-genshin-impact-dont-care-gif-2952795211172411884"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/AlsoKnownAsZira">
 <p align="center">
