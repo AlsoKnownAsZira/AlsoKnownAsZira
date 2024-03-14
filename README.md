@@ -15,7 +15,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
-<img src="<div class="tenor-gif-embed" data-postid="2952795211172411884" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/eula-dance-genshin-genshin-impact-dont-care-gif-2952795211172411884">Eula Dance GIF</a>from <a href="https://tenor.com/search/eula-gifs">Eula GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>"><h3 align="center">Statistics</h3>
+
 <div align="center">
 <a href="https://github.com/AlsoKnownAsZira">
 <p align="center">
