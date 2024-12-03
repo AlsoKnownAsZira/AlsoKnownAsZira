@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🌱 Currently grinding **Flutter** and **Machine learning**<br>- 📫 How to reach me **bril_sat** on instagram or **ziraaa_** on discord<br>- ⚡ Fun facts? **I'm your average programmer (weeb, gamer, broken sleep schedule (assuming I had one))**</p>
+<p align="left">- 🌱 Currently grinding Flutter and Machine learning<br>- 📫 How to reach me bril_sat on instagram or ziraaa_ on discord<br>- ⚡ Fun facts? I'm your average programmer (weeb, gamer, broken sleep schedule (assuming I had one))</p>
 
 ###
 
