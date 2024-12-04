@@ -3,6 +3,7 @@
 ###
 
 <h4 align="left">Multi platform app developer (wannabe)</h4>
+<h4 align="left">Looking for intership:) </h4>
 
 ###
 
