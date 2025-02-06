@@ -2,8 +2,9 @@
 
 ###
 
-<h4 align="left">Mobile App Developer with Dart and Flutter</h4>
-<h4 align="left">Looking for intership:) </h4>
+<h3 align="left">Mobile App Developer with Dart and Flutter</h3>
+<h3 align="left">Currently grinding XP as a mobile dev intern at    <a href="https://venturo.id/" target="_blank"> Venturo Pro 
+  </a></h3>
 
 ###
 
