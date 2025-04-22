@@ -9,8 +9,12 @@
 ###
 
 -🌱 Currently grinding **Flutter** and **Machine learning**<br> - 📫 How to reach me **bril_sat** on instagram or email me at **brilyansatria10@gmail.com**<br> - ⚡ Fun facts? **I'm your average programmer (weeb, gamer, broken sleep schedule (assuming I had one))** 
-
+<br clear="both">
+<br>
 ###
+<h3 align="center">"Beyond the journey you have taken lies the absolute end."</h3>
+<h3 align="center">"It matters not who you are, one thing is always certain: death awaits all."</h3>
+<p align="center"><i>- Nyx, Persona 3: Reload</i></p>
 
 <br clear="both">
 
