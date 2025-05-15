@@ -8,7 +8,7 @@
 
 ###
 
--🌱 Currently grinding **Flutter** and **Data Science**<br> - 📫 How to reach me **bril_sat** on instagram or email me at **brilyansatria10@gmail.com**<br> - ⚡ Fun facts? **I'm your average programmer (weeb, gamer, broken sleep schedule (assuming I had one))** 
+-🌱 Currently grinding **Flutter** and **Data Science**<br> - 📫 How to reach me **brilyansatria10@gmail.com**<br> - ⚡ Fun facts? **I love wasting my hard earned cash to buy some games, and I hate sweets** 
 <br clear="both">
 <br>
 ###
