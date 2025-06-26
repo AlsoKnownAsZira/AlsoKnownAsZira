@@ -13,7 +13,9 @@
 <br>
 </div>
   <h5>Yea my commits are so dry lately, I use gitlab lmao... follow my gitlab too eh? https://gitlab.com/AlsoKnownAsZira</h3>
+  
 ###
+
 <h3 align="center">"Beyond the journey you have taken lies the absolute end."</h3>
 <h3 align="center">"It matters not who you are, one thing is always certain: death awaits all."</h3>
 <p align="center"><i>- Nyx, Persona 3: Reload</i></p>
