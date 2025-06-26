@@ -11,6 +11,8 @@
 -🌱 Currently grinding **Flutter** and **Data Science**<br> - 📫 How to reach me **brilyansatria10@gmail.com**<br> - ⚡ Fun facts? **I love wasting my hard earned cash to buy some games, and I hate sweets** 
 <br clear="both">
 <br>
+</div>
+  <h5>Yea my commits are so dry lately, I use gitlab lmao... follow my gitlab too eh? https://gitlab.com/AlsoKnownAsZira</h3>
 ###
 <h3 align="center">"Beyond the journey you have taken lies the absolute end."</h3>
 <h3 align="center">"It matters not who you are, one thing is always certain: death awaits all."</h3>
@@ -62,7 +64,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-</div>
 
 ###
 
