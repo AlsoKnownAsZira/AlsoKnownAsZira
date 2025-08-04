@@ -8,7 +8,7 @@
 
 ###
 
--🌱 Currently grinding **Flutter** and **Computer Vision**<br> - 📫 How to reach me **brilyansatria10@gmail.com**<br> - ⚡ Fun facts? **I love wasting my hard earned cash to buy some games, and I hate sweets** 
+-🌱 Currently learning **Flutter** and **Computer Vision**<br> - 📫 How to reach me **brilyansatria10@gmail.com**<br> - ⚡ Fun facts? **I love wasting my hard earned cash to buy some games, and I hate sweets** 
 <br clear="both">
 <br>
 </div>
